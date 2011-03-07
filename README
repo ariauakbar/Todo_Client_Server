@@ -1,4 +1,4 @@
-*next todo: move all connection method from Appdelegate to RootViewController
+*next todo: remove all connection methods from AppDelegate. 
 
 == Rails ==
 
