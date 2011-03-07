@@ -1,0 +1,335 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* TaskAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1218, 815}}";
+			sepNavSelRange = "{340, 0}";
+			sepNavVisRange = "{0, 880}";
+		};
+	};
+	1D3623250D0F684500981E51 /* TaskAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1218, 2040}}";
+			sepNavSelRange = "{2752, 0}";
+			sepNavVisRange = "{1413, 1675}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Task */ = {
+		activeExec = 0;
+		executables = (
+			CBCF38181323E8B7009EB53A /* Task */,
+		);
+	};
+	28C286DF0D94DF7D0034E888 /* RootViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1218, 815}}";
+			sepNavSelRange = "{671, 0}";
+			sepNavVisRange = "{0, 694}";
+		};
+	};
+	28C286E00D94DF7D0034E888 /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = DetailViewController;\n            r = \"{6059, 24}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{6110, 24}\";\n            s = 1;\n        },\n                {\n            l = \"Nib name\";\n            r = \"{6160, 12}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 6816}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1218, 3855}}";
+			sepNavSelRange = "{993, 0}";
+			sepNavVisRange = "{0, 1356}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = CBCF38181323E8B7009EB53A /* Task */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Task */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Task */,
+		);
+		breakpoints = (
+			CBCF38A41323F359009EB53A /* TaskAppDelegate.m:38 */,
+		);
+		codeSenseManager = CBCF38311323E8C3009EB53A /* Code sense */;
+		executables = (
+			CBCF38181323E8B7009EB53A /* Task */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1040,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 321199460;
+			PBXWorkspaceStateSaveDate = 321199460;
+		};
+		perUserProjectItems = {
+			CBC2B0F61324D46500FAF77F /* PBXTextBookmark */ = CBC2B0F61324D46500FAF77F /* PBXTextBookmark */;
+			CBC2B0F71324D46500FAF77F /* PBXTextBookmark */ = CBC2B0F71324D46500FAF77F /* PBXTextBookmark */;
+			CBC2B1451324D97100FAF77F /* PBXTextBookmark */ = CBC2B1451324D97100FAF77F /* PBXTextBookmark */;
+			CBC2B1471324D97100FAF77F /* PBXTextBookmark */ = CBC2B1471324D97100FAF77F /* PBXTextBookmark */;
+			CBC2B7321325344100FAF77F /* PBXTextBookmark */ = CBC2B7321325344100FAF77F /* PBXTextBookmark */;
+			CBC2B7331325344100FAF77F /* PBXTextBookmark */ = CBC2B7331325344100FAF77F /* PBXTextBookmark */;
+			CBC2B7351325344100FAF77F /* PBXTextBookmark */ = CBC2B7351325344100FAF77F /* PBXTextBookmark */;
+			CBC2B7361325344100FAF77F /* PBXTextBookmark */ = CBC2B7361325344100FAF77F /* PBXTextBookmark */;
+			CBC2B7371325344100FAF77F /* PBXTextBookmark */ = CBC2B7371325344100FAF77F /* PBXTextBookmark */;
+			CBC2B7381325344100FAF77F /* PBXTextBookmark */ = CBC2B7381325344100FAF77F /* PBXTextBookmark */;
+			CBC2B7391325344100FAF77F /* PBXTextBookmark */ = CBC2B7391325344100FAF77F /* PBXTextBookmark */;
+			CBC2B73A1325344100FAF77F /* PBXTextBookmark */ = CBC2B73A1325344100FAF77F /* PBXTextBookmark */;
+			CBC2B7781325346700FAF77F /* PBXTextBookmark */ = CBC2B7781325346700FAF77F /* PBXTextBookmark */;
+			CBC2B7791325346700FAF77F /* PBXTextBookmark */ = CBC2B7791325346700FAF77F /* PBXTextBookmark */;
+			CBCF38621323F08A009EB53A /* PBXTextBookmark */ = CBCF38621323F08A009EB53A /* PBXTextBookmark */;
+		};
+		sourceControlManager = CBCF38301323E8C3009EB53A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	CBC2B0F61324D46500FAF77F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286DF0D94DF7D0034E888 /* RootViewController.h */;
+		name = "RootViewController.h: 12";
+		rLen = 0;
+		rLoc = 296;
+		rType = 0;
+		vrLen = 424;
+		vrLoc = 0;
+	};
+	CBC2B0F71324D46500FAF77F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* TaskAppDelegate.h */;
+		name = "TaskAppDelegate.h: 20";
+		rLen = 0;
+		rLoc = 485;
+		rType = 0;
+		vrLen = 880;
+		vrLoc = 0;
+	};
+	CBC2B1451324D97100FAF77F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 27";
+		rLen = 0;
+		rLoc = 492;
+		rType = 0;
+		vrLen = 1033;
+		vrLoc = 0;
+	};
+	CBC2B1471324D97100FAF77F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* TaskAppDelegate.m */;
+		name = "TaskAppDelegate.m: 59";
+		rLen = 0;
+		rLoc = 1475;
+		rType = 0;
+		vrLen = 1082;
+		vrLoc = 1873;
+	};
+	CBC2B7321325344100FAF77F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CBCF39161323F76D009EB53A /* addNewSubjectView.h */;
+		name = "addNewSubjectView.h: 28";
+		rLen = 0;
+		rLoc = 676;
+		rType = 0;
+		vrLen = 389;
+		vrLoc = 543;
+	};
+	CBC2B7331325344100FAF77F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CBCF39171323F76D009EB53A /* addNewSubjectView.m */;
+		name = "addNewSubjectView.m: 186";
+		rLen = 0;
+		rLoc = 5687;
+		rType = 0;
+		vrLen = 497;
+		vrLoc = 2684;
+	};
+	CBC2B7351325344100FAF77F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CBCF39171323F76D009EB53A /* addNewSubjectView.m */;
+		name = "addNewSubjectView.m: 137";
+		rLen = 0;
+		rLoc = 4433;
+		rType = 0;
+		vrLen = 1876;
+		vrLoc = 3818;
+	};
+	CBC2B7361325344100FAF77F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CBCF39161323F76D009EB53A /* addNewSubjectView.h */;
+		name = "addNewSubjectView.h: 15";
+		rLen = 0;
+		rLoc = 290;
+		rType = 0;
+		vrLen = 935;
+		vrLoc = 0;
+	};
+	CBC2B7371325344100FAF77F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* TaskAppDelegate.h */;
+		name = "TaskAppDelegate.h: 14";
+		rLen = 0;
+		rLoc = 340;
+		rType = 0;
+		vrLen = 880;
+		vrLoc = 0;
+	};
+	CBC2B7381325344100FAF77F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 45";
+		rLen = 0;
+		rLoc = 993;
+		rType = 0;
+		vrLen = 1356;
+		vrLoc = 0;
+	};
+	CBC2B7391325344100FAF77F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286DF0D94DF7D0034E888 /* RootViewController.h */;
+		name = "RootViewController.h: 30";
+		rLen = 0;
+		rLoc = 671;
+		rType = 0;
+		vrLen = 694;
+		vrLoc = 0;
+	};
+	CBC2B73A1325344100FAF77F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* TaskAppDelegate.m */;
+		name = "TaskAppDelegate.m: 36";
+		rLen = 0;
+		rLoc = 757;
+		rType = 0;
+		vrLen = 1380;
+		vrLoc = 1707;
+	};
+	CBC2B7781325346700FAF77F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CBCF39171323F76D009EB53A /* addNewSubjectView.m */;
+		name = "addNewSubjectView.m: 176";
+		rLen = 0;
+		rLoc = 5687;
+		rType = 0;
+		vrLen = 375;
+		vrLoc = 5319;
+	};
+	CBC2B7791325346700FAF77F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* TaskAppDelegate.m */;
+		name = "TaskAppDelegate.m: 114";
+		rLen = 0;
+		rLoc = 2752;
+		rType = 0;
+		vrLen = 1317;
+		vrLoc = 1771;
+	};
+	CBCF38181323E8B7009EB53A /* Task */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Task;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	CBCF38301323E8C3009EB53A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	CBCF38311323E8C3009EB53A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	CBCF38411323E94B009EB53A /* SBJsonParser.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1328, 1305}}";
+			sepNavSelRange = "{2902, 0}";
+			sepNavVisRange = "{2463, 752}";
+		};
+	};
+	CBCF38621323F08A009EB53A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CBCF38411323E94B009EB53A /* SBJsonParser.h */;
+		name = "SBJsonParser.h: 73";
+		rLen = 0;
+		rLoc = 2902;
+		rType = 0;
+		vrLen = 752;
+		vrLoc = 2463;
+	};
+	CBCF38A41323F359009EB53A /* TaskAppDelegate.m:38 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1D3623250D0F684500981E51 /* TaskAppDelegate.m */;
+		functionName = "-application:didFinishLaunchingWithOptions:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 38;
+		location = Task;
+		modificationTime = 321123183.710903;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	CBCF39161323F76D009EB53A /* addNewSubjectView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1218, 815}}";
+			sepNavSelRange = "{290, 0}";
+			sepNavVisRange = "{0, 935}";
+		};
+	};
+	CBCF39171323F76D009EB53A /* addNewSubjectView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1218, 2745}}";
+			sepNavSelRange = "{5687, 0}";
+			sepNavVisRange = "{5319, 375}";
+			sepNavWindowFrame = "{{15, 358}, {960, 1055}}";
+		};
+	};
+}
